@@ -5,5 +5,5 @@ Neste repositório encontram-se os arquivos relacionados ao projeto de previsão
 # Streamlit:
 
 
-https://github.com/LucRib9/Projeto_2-Previsao_de_renda/assets/127044748/b1c38f38-b19b-4856-b049-d7d24d87df37
+(https://github.com/Yasmaty/EBAC/blob/main/Modulo%2016/Previs%C3%A3o%20de%20renda/Input/streamlit-projeto_07-2025-123-20-00-11-68.mov)
 
